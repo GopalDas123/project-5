@@ -19,7 +19,7 @@ const Home = () => {
           <p className="tagLine2">
             We Have The Great Developers Around The Globe
           </p>
-          <button data-aos="zoom-in" className="start">
+          <button className="start">
             Get Started
           </button>
         </p>
